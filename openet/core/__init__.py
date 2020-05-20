@@ -2,5 +2,6 @@
 from . import common
 from . import interpolate
 from . import utils
+from . import wrs2
 
-__version__ = '0.0.14'
+__version__ = '0.0.20'
